@@ -1,0 +1,29 @@
+html{
+    margin: 0;
+    background-color: steelblue;
+}
+h1{
+    color: steelblue;
+}
+.g-signin2{
+    line-height: 0;
+    display: inline;
+}
+.profileName{
+    line-height: 0;
+    position: 1300px 10px;
+}
+{
+    width: 1358px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#reset-bttn{
+    width: 1349px;
+    font-size: 20px;
+    color: steelblue;
+    background-color: black;
+    border: rgba(0,0,0, 0.5) 3px ridge;
+}
