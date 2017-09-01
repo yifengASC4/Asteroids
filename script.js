@@ -52,7 +52,7 @@ function draw() {
         text(" GAME OVER ", width / 3.5, height / 3);
         fill(70, 130, 180);
         textSize(60);
-        text(" YOU LOSE TOO BAD =(!! ", width / 4, height / 2);
+        text(" YOU LOSE TOO BAD =( !! ", width / 4, height / 2);
     }
     if (asteroids.length == 0) {
         fill(70, 130, 180);
